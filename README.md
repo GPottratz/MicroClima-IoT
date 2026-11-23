@@ -1,6 +1,6 @@
 # MicroClima IoT — SaaS de Gestão e Automação Inteligente de Estufas (IoT)
 
-O **MicroClima IoT** é uma plataforma SaaS (Software as a Service) desenvolvida para transformar a gestão agrícola de precisão. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
+O **MicroClima IoT**, anteriormente desenvolvido sob o nome provisório AgroGreen, é uma plataforma SaaS (Software as a Service) desenvolvida para transformar a gestão agrícola de precisão. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
 
 ---
 
@@ -79,5 +79,8 @@ docker compose up -d
 <img width="1920" height="872" alt="dashboard" src="https://github.com/user-attachments/assets/28b2e6b7-1e1d-4099-84e5-e4b541d7c4b0" />
 
 ---
+## Sobre o Projeto 
+O **MicroClima IoT** é um projeto autoral criado estritamente para fins de aprendizado, experimentação técnica e composição de portfólio profissional. Todos os dados exibidos são simulados ou coletados em ambiente de testes, sem qualquer finalidade comercial.
+
 ## Licença
 MIT
