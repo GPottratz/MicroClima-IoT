@@ -1,6 +1,6 @@
-# AgroGreen — SaaS de Gestão e Automação Inteligente de Estufas (IoT)
+# MicroClima IoT — SaaS de Gestão e Automação Inteligente de Estufas (IoT)
 
-O **AgroGreen** é uma plataforma SaaS (Software as a Service) desenvolvida para transformar a gestão agrícola de precisão. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
+O **MicroClima IoT** é uma plataforma SaaS (Software as a Service) desenvolvida para transformar a gestão agrícola de precisão. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
 
 ---
 
@@ -12,7 +12,7 @@ Produtores agrícolas e gestores de estufas enfrentam desafios constantes na man
 * **Desperdício de água e energia:** Irrigação realizada em horários ineficientes ou por estimativas visuais.
 * **Falta de controle centralizado:** Dificuldade em gerenciar múltiplos sensores e estufas com diferentes tipos de cultivo simultaneamente.
 
-### A Solução AgroGreen
+### A Solução MicroClima IoT
 O AgroGreen resolve esses gargalos fornecendo:
 * **Telemetria em Tempo Real:** Leitura constante de parâmetros climáticos vitais por estufa e por sensor.
 *  **Irrigação Híbrida Inteligente:** Alternância entre o **Modo Automático** (agendamento de regas programadas com duração controlada) e o **Modo Manual** (acionamento imediato da bomba).
@@ -60,8 +60,8 @@ A arquitetura do sistema é dividida em módulos independentes, desacoplados e c
 ## Como rodar o projeto
 Para executar o projeto, é necessário certificar-se de que o Docker já esteja instalado. Após, execute os comandos a seguir:
 ```bash
-git clone https://github.com/GPottratz/AgroGreen.git
-cd AgroGreen
+git clone https://github.com/GPottratz/MicroClima-IoT.git
+cd MicroClima-IoT
 docker compose up -d
 ```
 # Resultados
