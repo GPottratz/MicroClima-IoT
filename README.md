@@ -76,9 +76,10 @@ docker compose up -d
 <img width="879" height="879" alt="ESP32" src="https://github.com/user-attachments/assets/98f1ab20-f1f0-4471-bd87-cac862b02a3e" />
 
 ## Software
-<img width="1920" height="872" alt="dashboard" src="https://github.com/user-attachments/assets/28b2e6b7-1e1d-4099-84e5-e4b541d7c4b0" />
+<img width="3024" height="2345" alt="image" src="https://github.com/user-attachments/assets/eea905e6-c280-4a6e-9056-e4462a168006" />
 
 ---
+
 ## Sobre o Projeto 
 O **MicroClima IoT** é um projeto autoral criado estritamente para fins de aprendizado, experimentação técnica e composição de portfólio profissional. Todos os dados exibidos são simulados ou coletados em ambiente de testes, sem qualquer finalidade comercial.
 
