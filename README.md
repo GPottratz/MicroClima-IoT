@@ -1,6 +1,6 @@
 # MicroClima IoT — SaaS de Gestão e Automação Inteligente de Estufas (IoT)
 
-O **MicroClima IoT**, anteriormente desenvolvido sob o nome provisório AgroGreen, é uma plataforma SaaS (Software as a Service) desenvolvida para aprimorar meus conhecimentos sobre desenvolvimento de software. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
+O **MicroClima IoT**, é uma plataforma SaaS (Software as a Service) desenvolvida para aprimorar meus conhecimentos sobre desenvolvimento de software. O sistema unifica a coleta de dados de sensores IoT em tempo real, a visualização analítica do microclima e o controle dinâmico da irrigação em um painel simples e intuitivo.
 
 ---
 
